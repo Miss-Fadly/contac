@@ -1,0 +1,24 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    left: 300px;
+    padding: 70px;
+    padding-left: 15px;
+    height: 360px;
+    width: 680px;   
+}
+.input2{
+    width: 400px;
+    
+}
+
+button{
+    background: blue;
+	border: none;
+	color: #fff;
+	height: 30px;
+    width: 80px;
+}
+
